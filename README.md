@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF3737&height=200&section=header&text=🫡Hola%20Mundo&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF3737&height=200&section=header&text=👾Hola%20Mundo&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&descAlignY=55)
 <br>
 ## 🙋🏻‍♂️Sobre mí
 ### ¡Hi! Soy Breimer Correa 💻
